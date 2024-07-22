@@ -1,0 +1,4 @@
+* About
+
+This is a subproject spun out of OpenBLAS to generate the
+configuration headers for the ~meson~ build.

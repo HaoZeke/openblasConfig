@@ -1,0 +1,2 @@
+option('build_without_lapack', type: 'boolean', value: false, description: 'Do not build LAPACK and LAPACKE (Only BLAS or CBLAS)')
+option('use_perl', type: 'boolean', value: false, description: 'Use the older PERL scripts for build preparation instead of universal shell scripts')
